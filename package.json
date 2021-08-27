@@ -1,0 +1,17 @@
+{
+  "name": "8-0-media-queries",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --port=5000 .",
+    "test": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.3.0",
+    "live-server": "^1.1.0"
+  }
+}
